@@ -4,7 +4,7 @@
 
 # Install
 
-```js
+```bash
 $ npm i -S pascalize
 
 # or with yarn
@@ -14,7 +14,7 @@ $ yarn add pascalize
 
 ## Usage
 
-```
+```js
 import pascalize from 'pascalize';
 
 pascalize('foo bar');
